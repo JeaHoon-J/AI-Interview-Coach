@@ -31,7 +31,9 @@
 ## 🎯 한 줄 설명
 
 > “듣고 말하고 피드백 받는” 실제 면접을 그대로 재현한 음성 기반 AI 서비스
->
+
+## 🚀 Streamlit 구현
+---
 > <img width="770" height="795" alt="1" src="https://github.com/user-attachments/assets/55b39d91-5f11-4ce4-8d36-ec13a7009ade" />
 > <img width="761" height="666" alt="2" src="https://github.com/user-attachments/assets/85a01604-9cb8-40db-9d29-e5ae88b3bc37" />
 
